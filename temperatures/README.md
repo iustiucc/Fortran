@@ -1,6 +1,6 @@
 # temperatures
 
-A program that generates temperatures and finds the minimum, maximum and medium temperatures.
+A program that generates temperatures and finds the minimum, maximum and medium temperature.
 
 ## How to use it?
 
