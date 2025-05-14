@@ -25,19 +25,20 @@ You need a **Fortran compiler** (like GCC, which is included in Code::Blocks) to
 
 ## Example
 
-   22.3452301
-   16.4067764
-   15.4473333
-   15.7754393
-   17.3374767
-   20.6287327
-   18.3423023
-   17.3653717
-   15.5865517
-   17.0375557
- Medium temperature:   17.6272755
- Maximum temperature:   22.3452301
- Minimum temperature:   15.4473333
+22.3452301
+16.4067764
+15.4473333
+15.7754393
+17.3374767
+20.6287327
+18.3423023
+17.3653717
+15.5865517
+17.0375557
+Medium temperature:   17.6272755
+Maximum temperature:   22.3452301
+Minimum temperature:   15.4473333
+
 
 ## License
 
