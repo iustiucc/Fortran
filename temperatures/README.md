@@ -41,7 +41,7 @@ You need a **Fortran compiler** (like GCC, which is included in Code::Blocks) to
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](../LICENSE.md) file for details.
 
 ## Author
 
